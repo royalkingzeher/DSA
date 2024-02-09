@@ -11,6 +11,7 @@ int main()
   scanf("%d",&n);
   int a[n];
 
+  
   printf("\n Enter the element value of array:\n");
   // input the element array
   for(i=0;i<n;i++)
