@@ -18,3 +18,4 @@ int main()
     cout<<endl<<"\nAfter calling function "<<endl<<"a = "<<a<<"\nb = "<<b<<"\na = "<<c;//here a is call by value ,b is call by address//c is call by refence    
     return 0;
 }
+
