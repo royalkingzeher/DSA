@@ -17,6 +17,7 @@ void funct2(int a[])
         cout<<endl<<"funt2 "<<a[i];
     }
 }  
+
 int * funct3(int size)//returning address of an  array , created and stored in heap by function
 {
     int *a,i;
