@@ -8,6 +8,7 @@ struct  RECTANGLE
     int breath;
     /* data */
 };
+
 int main()
 {
     struct RECTANGLE r={5,5};
